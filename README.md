@@ -1,42 +1,34 @@
 
 # GenP
 
-## 📋 Table of Contents
-
-- [⚖️ Legal Disclaimer](#️-legal-disclaimer)
-- [❓ About GenP](#-about-genp)
-- [✅ System Requirements](#-system-requirements)
-- [📥 Downloads](#-downloads)
-- [📖 Documentation](#-documentation)
-- [⚠️ Known Limitations](#️-known-limitations)
-- [🌐 Community](#-community)
-
----
-
 ## ⚖️ Legal Disclaimer
 
-> [!IMPORTANT]
+> [!Important]
 >
-> This mirror repository **only** exists following the takedown of the reddit community. The owner and maintainer(s) of this repository are:
-> - **NOT affiliated** with the official/unofficial GenP community
-> - **DO NOT endorse** copyright infringement or piracy
-> - Provide this for **educational and research purposes only**
+> **This mirror repository only exists following the takedown of the reddit community. The owner and maintainer(s) of this repository are NOT affiliated with the official/unofficial GenP community and DO NOT endorse copyright infringement/piracy.**
 >
 > **Terms of Use:**
-> - This tool is strictly for **educational and research purposes only**
-> - Users assume **full responsibility** for any use
-> - **No warranties or guarantees** provided for any use
-> - Owner/maintainers accept **no liability** for any misuse
+> - **This tool is strictly provided for educational and research purposes only**
+> - **Users assume full responsibility for ANY use**
+> - **No warranties or guarantees provided for ANY use**
+> - **Owner/maintainers accept **no liability** for AY misuse**
 
 ---
 
-> [!WARNING]
-> **NEVER DOWNLOAD GenP FROM:**
+## Backup Links
+> [!Important]
+>
+> **The backup sources are provided solely for redundancy and repository continuity in case of downtime. Inclusion of these links DOES NOT imply endorsement/promotion/support for ANY content/usage/activities associated. Use at your own discretion — [BACKUP - 1](https://gitlab.com/Cur10s1tyByt3/GenP), [BACKUP - 2](https://codeberg.org/Cur10s1tyByt3/GenP)**
+
+---
+
+> [!Warning]
+> **NEVER DOWNLOAD THE TOOL FROM:**
 > 
 > | Source Type | Examples |
 > |-------------|----------|
 > | **Video Platforms** | YouTube tutorials, TikTok, video descriptions |
-> | **Code Hosting** | GitHub (always verify the legitimacy of source-codes and/or binaries before running) |
+> | **Code Hosting** | GitHub (always verify the legitimacy of source codes/binaries before running), Gitea |
 > | **Social Media** | Discord servers, Telegram channels, Reddit posts |
 > | **File Sharing** | MediaFire, Mega.nz, torrent sites, P2P networks |
 > | **Third-Party Sites** | Any site with ads, surveys, wait times, or extra clicks |
@@ -258,7 +250,7 @@ In Photoshop, set Remove Tool mode to **"Generative AI Off"**. This reverts to S
 
 ## 🌐 Community
 
-### Support Forum/GC
+### For any kind of questions/support, refer to:
 
 <table>
 <tr>
@@ -299,4 +291,4 @@ In Photoshop, set Remove Tool mode to **"Generative AI Off"**. This reverts to S
 
 ---
 
-**This tool is intended for educational and research purposes only! Use at your own risk.**
+**This tool is strictly intended for educational and research purposes only! Use at your own risk.**
